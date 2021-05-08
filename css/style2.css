@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#navbar{
+    display: flex;
+}
+#logo img{
+    height: 60px;
+}
+#navbar ul{
+    display: flex;
+  
+}
+#navbar li{
+    margin:10px 35px;
+}
